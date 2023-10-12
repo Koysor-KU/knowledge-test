@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-image: url(https://m.media-amazon.com/images/I/61GERhJS2jL._AC_SL1000_.jpg);
+}
+
+.header{
+  border: black solid 5px;
+  background-color: gray;
+  color: Black;
+  justify-content: center;
+  text-align: center;
+  display: block;
+  height: 80px;
+  width: 98.6%;
+  padding-top: 40px;
+  margin: 10px;
+
+}
+
+.subheader{
+  border: black solid 5px;
+  background-color: gray;
+  color: Black;
+  justify-content: center;
+  text-align: center;
+  display: block;
+  height: 80px;
+  width: 98.6%;
+  margin: 10px;
+  
+}
+
+.p1{
+  border: black solid 5px;
+  background-color: gray;
+  color: Black;
+  justify-content: center;
+  text-align: center;
+  display: block;
+  height: 500px;
+  width: 98.6%;
+  margin: 10px;
+  
+}

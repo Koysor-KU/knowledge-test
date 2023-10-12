@@ -1,0 +1,92 @@
+/** {
+  margin: 0;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 2px solid black;
+
+}
+*/
+
+.title{}
+.about{}
+
+
+
+.main-tittle{
+  text-align: center;
+  align-items: center;
+  
+}
+
+figure{
+
+}
+
+figcaption{
+
+}
+
+.image1{
+  height: 267px;
+  width: 400px;
+}
+
+.section1{
+  border-bottom: 2px solid black;
+
+}
+
+.section2{
+  border-bottom: 2px solid black;
+}
+
+.our-menu{
+  border-bottom: 2px solid black;
+}
+.table1, th, td{
+  margin: 0;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 2px solid black;
+
+}
+
+
+
+.icon1{
+  width: 20px;
+  height: 25px;
+  
+}
+
+
+footer{
+  border-top: 1px solid black;
+
+}
+
+.trivia{
+  list-style: square;
+
+}
+
+a{
+  text-decoration: underline;
+  color: blue;
+
+}
+
+
+a {
+  color: #466995;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+a:hover{
+
+  color: #466995;
+  text-decoration: none;
+
+
+}
