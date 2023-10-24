@@ -7,3 +7,19 @@ if (season === 'spring') {console.log('It\'s spring! The trees are budding!');}
 else {console.log('Invalid season.');}
 
 //program that keeps track of the way the environment changes with the seasons, with conditional statements to make this happen!
+
+/*let weather = "spring";
+let clothingChoice = "";
+
+if (weather === "spring") {
+  clothingChoice = "Put on rain boots.";
+} else if (weather === "summer") {
+  clothingChoice = "Make sure to take your sunscreen.";
+} else if (weather === "fall") {
+  clothingChoice = "Wear a light jacket.";
+} else if (weather === 'winter') {
+  clothingChoice = "Wear a heavy coat.";
+} else {
+  console.log('Invalid weather type.');
+};
+console.log(clothingChoice);*/
